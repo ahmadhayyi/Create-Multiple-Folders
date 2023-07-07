@@ -1,0 +1,6 @@
+MD "Folder 1"
+MD "Folder 2"
+MD "Folder 3"
+MD "Folder 4"
+MD "Folder 5"
+MD "Folder 6"
